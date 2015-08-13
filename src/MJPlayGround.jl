@@ -6,4 +6,5 @@ using JuMP
 a=2;
 a
 
+b
 end # module
